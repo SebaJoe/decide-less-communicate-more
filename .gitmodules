@@ -1,0 +1,3 @@
+[submodule "redhot_viewer"]
+	path = redhot_viewer
+	url = https://github.com/SebaJoe/redhot_viewer
