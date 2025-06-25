@@ -9,3 +9,9 @@ To view the annotations, use this annotation interface link: https://sebajoe.git
 Refer to annotation_data folder to see annotations across six different annotators for 3 splits.
 
 Refer to retrieval_test to see the jsons of the 8 different strategies and their corresponding relevance annotations.
+
+![Claims](img/claims.png)
+![PIO Elements](img/pios.png)
+![Tiers](img/tiers.png)
+![Label and Explanation](img/exps.png)
+![Abstract Level Annotations](img/abs.png)
