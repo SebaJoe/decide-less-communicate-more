@@ -2,6 +2,8 @@
 
 This is the repository where we release the annotation data and the annotation interface described in this paper. 
 
+![Task Overview](img/Task_fig.png)
+
 To view the annotations, use this annotation interface link: https://sebajoe.github.io/redhot_viewer/. Then upload the corresponding json to see the annotations.
 
 Refer to annotation_data folder to see annotations across six different annotators for 3 splits.
