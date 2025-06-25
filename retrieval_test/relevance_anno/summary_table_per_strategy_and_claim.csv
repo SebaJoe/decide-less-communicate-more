@@ -1,0 +1,414 @@
+,index,Claim,Post,Population,Intervention,Outcome,Overall,poplist,interlist,outcomelist,overalllist,strat
+0,0," I believe it may make those medications work differently, but I am not sure","Grapefruit and siezures
+Guys, I am wondering if you have any issues or know about interactions between oxcarbazepine and/or levetiracetam and grapefruit? I believe it may make those medications work differently, but I am not sure.",2.5,1.4,2.3,1.3,"[3, 3, 3, 3, 3, 3, 1, 2, 3, 1]","[1, 2, 1, 1, 2, 1, 2, 1, 1, 2]","[3, 2, 2, 3, 3, 3, 2, 3, 1, 1]","[1, 2, 1, 1, 2, 1, 2, 1, 1, 1]",Barry_s2s_query_pio_pio_abstract annotations.json
+1,1,"(vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron)","Anyone take Paxlovid?
+Hi everyone - one of my kids just tested positive for Covid so assuming I will as well in the next few days. I contacted my PCP and neuro who said that as soon as I test positive they would recommend getting me on Paxlovid as long as we can find it (vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron). Ive been doing my research on the drug but am curious if anyone has taken it yet. What was your experience? The worst side effect she mentioned was like a battery acid taste in your mouth for the entire 5-day regimen. Sounds gross but doable. 
+
+Thanks in advance for any insight.",2.9,2.3,2.9,2.3,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 2]","[3, 2, 3, 3, 2, 2, 2, 2, 2, 2]","[3, 3, 3, 3, 3, 3, 3, 3, 3, 2]","[3, 2, 3, 3, 2, 2, 2, 2, 2, 2]",Barry_s2s_query_pio_pio_abstract annotations.json
+2,2,I was told  I should experiencing some relief after 2 days but still nothing.,"After your balloon sinuplasty, how long did it take you to get rid of your face pressure and shallow breathing?
+Its been 5 days since my procedure and I still have facial pressure. This effects me in negative ways like not being able to focus with my eyes. I also have trouble automatically deep breathing. Im just curious how long does it typically take to recover from these symptoms? I was told  I should experiencing some relief after 2 days but still nothing. Im starting to wonder if this is dental related.",1.0,1.0,1.1,1.0,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[2, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",Barry_s2s_query_pio_pio_abstract annotations.json
+3,3,I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.,"Some Info on Probiotics for IBS
+So I posted this in a comment and it was suggested that I make this info its own post. I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.
+
+From the links below, the collective summary is that these probiotic strains (alone or in combination with others) were effective in one or more studies in reducing one or more IBS symptoms in frequency and/or severity: 
+
+Saccharomyces Boulardii CNCM I-745 (actually a yeast), Bifidobacterium longum 35624, Bifidobacterium infantis, Lactobacillus acidophilus, Lactobacillus plantarum 299v, Lactobacillus rhamnosus GG, Saccharomyces cerevisiae CNCM I-3856, Bifidobacterium lactis HN019, Bifidobacterium lactis BB-12, Lactobacillus acidophilus NCFM, Bifidobacterium lactis Bi-07, and Bifidobacterium bifidum MIMBb75.
+
+I may have missed a few in the above list, but the main gist is that Bifidobacterium and Lactobacillus species probiotics, as well as Saccharomyces Boulardii, are the main researched probiotics that show some kind of improvement for IBS (though it also depends on the type of IBS, and most of them helped with one or some symptoms but not all of them - see links below for more detail).
+
+Also, many of the studies couldn't draw conclusive evidence because there just wasn't enough data/research on specific probiotics yet, or because the studies didn't fulfill certain criteria. But they were able to state what evidence they did have, and identify what is likely to be the case based on findings so far.
+
+Bifidobacterium longum 35624 used to be called Bifidobacterium infantis 35624 and is still sometimes referred to that way. It is patented by Align, which is the brand name for that probiotic. Floraster is a leading brand name for Saccharomyces Boulardii CNCM I-745. There are other good probiotic brands too though (that have similar or different probiotic strains).
+
+A lot of this will be trial and error as you find what works for you. Be sure to give each probiotic or probiotic blend you try at least a 4 week trial, since it takes a bit of time for your body to adjust and for the probiotics to get to a certain level in your system to start working.
+
+It's a good idea to make sure that the probiotics are third-party tested and made in a GMC (or equivalent) registerred facility, to be sure you are getting exactly what's on the product label. I'm not sure exactly how it works in other countries, and that advice is US-based, but some level of quality assurance is generally advised.
+
+Also, for those who aren't used to reading research papers like this, usually the important information is in the Results and/or Discussion section. Sometimes they put a summary of those near the top, and sometimes you have to scroll to the end of the article. It's also a good idea to read the abstract/summary at the top of the article so you have an idea of what the paper is about. Reading the other sections of the paper will give you more detail into what they did for the study, which will give more context, but isn't usually necessary to read the whole thing to understand the end results, which tell you what they found about the probiotics in relation to IBS.
+
+And of course, always talk to your doctor about medical stuff! I'm just providing this information in case it might be helpful. I am NOT giving medical advice or telling you all to take probiotics or endorsing any brands or types or anything. Whether you decide to take probiotics or not is up to you and your doctor. This is just an info dump in case anyone wanted to know this stuff.
+
+Here are the links:
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00434-X/fulltext
+
+https://www.sciencedirect.com/science/article/pii/S1590865819309594
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7279071/
+
+https://www.optibacprobiotics.com/learning-lab/in-depth/gut-health/which-probiotics-are-best-for-ibs#IBS-U
+
+https://www.frontiersin.org/articles/10.3389/fphar.2020.00332/full#B68
+
+https://badgut.org/information-centre/a-z-digestive-topics/probiotics-for-irritable-bowel-syndrome/
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3296087/
+
+https://pubmed.ncbi.nlm.nih.gov/33745570/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13201",2.4,1.5,2.0,1.6,"[0, 3, 3, 3, 3, 0, 3, 3, 3, 3]","[0, 3, 3, 3, 2, 0, 1, 2, 0, 1]","[0, 3, 3, 3, 3, 0, 3, 3, 1, 1]","[0, 3, 3, 3, 2, 0, 1, 2, 1, 1]",Barry_s2s_query_pio_pio_abstract annotations.json
+4,4,I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in,"Picking the correct meds?
+So I'm UK based and have just started titration through PsychiatryUK after waiting nearly a year.   
+
+
+Started on Xaggitin XL 18mg ( now on 36mg and then will go to 54mg ). It seems to work ... I wake up a lot easier as before I would wake up groggy and just completely unfunctional .. which would then lead to me being easily distracted etc, and my focus throughout the day seems improved ... mood seems improved ... but, at around 4pm I crash hard and just feel exhausted at night. I had some family over at the weekend and was unable to keep up in conversation. Also after a few days it seems to have less of an effect ... but then I up the dose and it works again. Obviously this won't be sustainable and I will eventually reach max dose.  
+
+
+I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in, which is a problem for me as I find it most difficult in the morning. I could wake earlier and take it, and then go back to bed ... or I've also seen some people who take Amfexa as a top up in the morning and then take Elvanse for the rest of the day. This seems totally ideal for me, and has the benefit where I can forgo the meds on weekends if I'm not working / doing much - but have the quick release to fall back on in the event something crops up.  
+
+
+The question is - can I request this? I scared to accept a med just because it works somewhat, as changing it seems like it would be a pain in the ass .. so I'd like to make an informed decision.. but also don't want to waste their time. I'm also scared to even mention Amfexa for fear of being labeled as someone just wanting a high.",2.3,1.9,1.9,1.7,"[3, 2, 3, 3, 2, 2, 2, 3, 2, 1]","[2, 3, 1, 2, 2, 2, 1, 3, 2, 1]","[2, 3, 1, 2, 2, 2, 2, 2, 2, 1]","[2, 2, 1, 2, 2, 2, 1, 2, 2, 1]",Barry_s2s_query_pio_pio_abstract annotations.json
+0,0," I believe it may make those medications work differently, but I am not sure","Grapefruit and siezures
+Guys, I am wondering if you have any issues or know about interactions between oxcarbazepine and/or levetiracetam and grapefruit? I believe it may make those medications work differently, but I am not sure.",2.9,1.3,2.4,1.3,"[3, 3, 3, 3, 3, 3, 2, 3, 3, 3]","[1, 2, 2, 1, 1, 1, 1, 2, 1, 1]","[3, 2, 3, 3, 2, 3, 1, 3, 3, 1]","[1, 2, 2, 1, 1, 1, 1, 2, 1, 1]",Barry_s2s_query_pio_pio_only annotations.json
+1,1,"(vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron)","Anyone take Paxlovid?
+Hi everyone - one of my kids just tested positive for Covid so assuming I will as well in the next few days. I contacted my PCP and neuro who said that as soon as I test positive they would recommend getting me on Paxlovid as long as we can find it (vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron). Ive been doing my research on the drug but am curious if anyone has taken it yet. What was your experience? The worst side effect she mentioned was like a battery acid taste in your mouth for the entire 5-day regimen. Sounds gross but doable. 
+
+Thanks in advance for any insight.",2.8,2.2,2.7,2.2,"[3, 1, 3, 3, 3, 3, 3, 3, 3, 3]","[2, 1, 3, 3, 3, 3, 2, 2, 2, 1]","[3, 1, 3, 3, 3, 3, 3, 3, 3, 2]","[2, 1, 3, 3, 3, 3, 2, 2, 2, 1]",Barry_s2s_query_pio_pio_only annotations.json
+2,2,I was told  I should experiencing some relief after 2 days but still nothing.,"After your balloon sinuplasty, how long did it take you to get rid of your face pressure and shallow breathing?
+Its been 5 days since my procedure and I still have facial pressure. This effects me in negative ways like not being able to focus with my eyes. I also have trouble automatically deep breathing. Im just curious how long does it typically take to recover from these symptoms? I was told  I should experiencing some relief after 2 days but still nothing. Im starting to wonder if this is dental related.",1.1,1.0,1.1,1.0,"[1, 1, 1, 1, 1, 1, 1, 2, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 2, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",Barry_s2s_query_pio_pio_only annotations.json
+3,3,I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.,"Some Info on Probiotics for IBS
+So I posted this in a comment and it was suggested that I make this info its own post. I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.
+
+From the links below, the collective summary is that these probiotic strains (alone or in combination with others) were effective in one or more studies in reducing one or more IBS symptoms in frequency and/or severity: 
+
+Saccharomyces Boulardii CNCM I-745 (actually a yeast), Bifidobacterium longum 35624, Bifidobacterium infantis, Lactobacillus acidophilus, Lactobacillus plantarum 299v, Lactobacillus rhamnosus GG, Saccharomyces cerevisiae CNCM I-3856, Bifidobacterium lactis HN019, Bifidobacterium lactis BB-12, Lactobacillus acidophilus NCFM, Bifidobacterium lactis Bi-07, and Bifidobacterium bifidum MIMBb75.
+
+I may have missed a few in the above list, but the main gist is that Bifidobacterium and Lactobacillus species probiotics, as well as Saccharomyces Boulardii, are the main researched probiotics that show some kind of improvement for IBS (though it also depends on the type of IBS, and most of them helped with one or some symptoms but not all of them - see links below for more detail).
+
+Also, many of the studies couldn't draw conclusive evidence because there just wasn't enough data/research on specific probiotics yet, or because the studies didn't fulfill certain criteria. But they were able to state what evidence they did have, and identify what is likely to be the case based on findings so far.
+
+Bifidobacterium longum 35624 used to be called Bifidobacterium infantis 35624 and is still sometimes referred to that way. It is patented by Align, which is the brand name for that probiotic. Floraster is a leading brand name for Saccharomyces Boulardii CNCM I-745. There are other good probiotic brands too though (that have similar or different probiotic strains).
+
+A lot of this will be trial and error as you find what works for you. Be sure to give each probiotic or probiotic blend you try at least a 4 week trial, since it takes a bit of time for your body to adjust and for the probiotics to get to a certain level in your system to start working.
+
+It's a good idea to make sure that the probiotics are third-party tested and made in a GMC (or equivalent) registerred facility, to be sure you are getting exactly what's on the product label. I'm not sure exactly how it works in other countries, and that advice is US-based, but some level of quality assurance is generally advised.
+
+Also, for those who aren't used to reading research papers like this, usually the important information is in the Results and/or Discussion section. Sometimes they put a summary of those near the top, and sometimes you have to scroll to the end of the article. It's also a good idea to read the abstract/summary at the top of the article so you have an idea of what the paper is about. Reading the other sections of the paper will give you more detail into what they did for the study, which will give more context, but isn't usually necessary to read the whole thing to understand the end results, which tell you what they found about the probiotics in relation to IBS.
+
+And of course, always talk to your doctor about medical stuff! I'm just providing this information in case it might be helpful. I am NOT giving medical advice or telling you all to take probiotics or endorsing any brands or types or anything. Whether you decide to take probiotics or not is up to you and your doctor. This is just an info dump in case anyone wanted to know this stuff.
+
+Here are the links:
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00434-X/fulltext
+
+https://www.sciencedirect.com/science/article/pii/S1590865819309594
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7279071/
+
+https://www.optibacprobiotics.com/learning-lab/in-depth/gut-health/which-probiotics-are-best-for-ibs#IBS-U
+
+https://www.frontiersin.org/articles/10.3389/fphar.2020.00332/full#B68
+
+https://badgut.org/information-centre/a-z-digestive-topics/probiotics-for-irritable-bowel-syndrome/
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3296087/
+
+https://pubmed.ncbi.nlm.nih.gov/33745570/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13201",2.4,1.5,2.0,1.7,"[3, 0, 3, 3, 3, 3, 0, 3, 3, 3]","[3, 0, 1, 3, 3, 1, 0, 0, 2, 2]","[3, 0, 3, 3, 3, 1, 0, 1, 3, 3]","[3, 0, 2, 3, 3, 1, 0, 1, 2, 2]",Barry_s2s_query_pio_pio_only annotations.json
+4,4,I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in,"Picking the correct meds?
+So I'm UK based and have just started titration through PsychiatryUK after waiting nearly a year.   
+
+
+Started on Xaggitin XL 18mg ( now on 36mg and then will go to 54mg ). It seems to work ... I wake up a lot easier as before I would wake up groggy and just completely unfunctional .. which would then lead to me being easily distracted etc, and my focus throughout the day seems improved ... mood seems improved ... but, at around 4pm I crash hard and just feel exhausted at night. I had some family over at the weekend and was unable to keep up in conversation. Also after a few days it seems to have less of an effect ... but then I up the dose and it works again. Obviously this won't be sustainable and I will eventually reach max dose.  
+
+
+I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in, which is a problem for me as I find it most difficult in the morning. I could wake earlier and take it, and then go back to bed ... or I've also seen some people who take Amfexa as a top up in the morning and then take Elvanse for the rest of the day. This seems totally ideal for me, and has the benefit where I can forgo the meds on weekends if I'm not working / doing much - but have the quick release to fall back on in the event something crops up.  
+
+
+The question is - can I request this? I scared to accept a med just because it works somewhat, as changing it seems like it would be a pain in the ass .. so I'd like to make an informed decision.. but also don't want to waste their time. I'm also scared to even mention Amfexa for fear of being labeled as someone just wanting a high.",2.3,1.8,1.4,1.4,"[3, 2, 3, 3, 1, 3, 3, 3, 1, 1]","[2, 2, 2, 1, 1, 3, 2, 1, 3, 1]","[1, 1, 2, 1, 1, 2, 3, 1, 1, 1]","[1, 2, 2, 1, 1, 2, 2, 1, 1, 1]",Barry_s2s_query_pio_pio_only annotations.json
+0,0," I believe it may make those medications work differently, but I am not sure","Grapefruit and siezures
+Guys, I am wondering if you have any issues or know about interactions between oxcarbazepine and/or levetiracetam and grapefruit? I believe it may make those medications work differently, but I am not sure.",2.5,1.4,2.3,1.3,"[3, 2, 3, 3, 1, 3, 1, 3, 3, 3]","[1, 1, 2, 1, 2, 1, 2, 2, 1, 1]","[2, 3, 2, 3, 2, 3, 1, 3, 1, 3]","[1, 1, 2, 1, 2, 1, 1, 2, 1, 1]",Barry_s2s_query_pio_pio_title_abstract annotations (2).json
+1,1,"(vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron)","Anyone take Paxlovid?
+Hi everyone - one of my kids just tested positive for Covid so assuming I will as well in the next few days. I contacted my PCP and neuro who said that as soon as I test positive they would recommend getting me on Paxlovid as long as we can find it (vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron). Ive been doing my research on the drug but am curious if anyone has taken it yet. What was your experience? The worst side effect she mentioned was like a battery acid taste in your mouth for the entire 5-day regimen. Sounds gross but doable. 
+
+Thanks in advance for any insight.",3.0,2.2,2.9,2.2,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]","[3, 2, 3, 3, 2, 2, 2, 2, 1, 2]","[3, 3, 3, 3, 3, 3, 3, 3, 2, 3]","[3, 2, 3, 3, 2, 2, 2, 2, 1, 2]",Barry_s2s_query_pio_pio_title_abstract annotations (2).json
+2,2,I was told  I should experiencing some relief after 2 days but still nothing.,"After your balloon sinuplasty, how long did it take you to get rid of your face pressure and shallow breathing?
+Its been 5 days since my procedure and I still have facial pressure. This effects me in negative ways like not being able to focus with my eyes. I also have trouble automatically deep breathing. Im just curious how long does it typically take to recover from these symptoms? I was told  I should experiencing some relief after 2 days but still nothing. Im starting to wonder if this is dental related.",1.0,1.0,1.1,1.0,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[2, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",Barry_s2s_query_pio_pio_title_abstract annotations (2).json
+3,3,I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.,"Some Info on Probiotics for IBS
+So I posted this in a comment and it was suggested that I make this info its own post. I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.
+
+From the links below, the collective summary is that these probiotic strains (alone or in combination with others) were effective in one or more studies in reducing one or more IBS symptoms in frequency and/or severity: 
+
+Saccharomyces Boulardii CNCM I-745 (actually a yeast), Bifidobacterium longum 35624, Bifidobacterium infantis, Lactobacillus acidophilus, Lactobacillus plantarum 299v, Lactobacillus rhamnosus GG, Saccharomyces cerevisiae CNCM I-3856, Bifidobacterium lactis HN019, Bifidobacterium lactis BB-12, Lactobacillus acidophilus NCFM, Bifidobacterium lactis Bi-07, and Bifidobacterium bifidum MIMBb75.
+
+I may have missed a few in the above list, but the main gist is that Bifidobacterium and Lactobacillus species probiotics, as well as Saccharomyces Boulardii, are the main researched probiotics that show some kind of improvement for IBS (though it also depends on the type of IBS, and most of them helped with one or some symptoms but not all of them - see links below for more detail).
+
+Also, many of the studies couldn't draw conclusive evidence because there just wasn't enough data/research on specific probiotics yet, or because the studies didn't fulfill certain criteria. But they were able to state what evidence they did have, and identify what is likely to be the case based on findings so far.
+
+Bifidobacterium longum 35624 used to be called Bifidobacterium infantis 35624 and is still sometimes referred to that way. It is patented by Align, which is the brand name for that probiotic. Floraster is a leading brand name for Saccharomyces Boulardii CNCM I-745. There are other good probiotic brands too though (that have similar or different probiotic strains).
+
+A lot of this will be trial and error as you find what works for you. Be sure to give each probiotic or probiotic blend you try at least a 4 week trial, since it takes a bit of time for your body to adjust and for the probiotics to get to a certain level in your system to start working.
+
+It's a good idea to make sure that the probiotics are third-party tested and made in a GMC (or equivalent) registerred facility, to be sure you are getting exactly what's on the product label. I'm not sure exactly how it works in other countries, and that advice is US-based, but some level of quality assurance is generally advised.
+
+Also, for those who aren't used to reading research papers like this, usually the important information is in the Results and/or Discussion section. Sometimes they put a summary of those near the top, and sometimes you have to scroll to the end of the article. It's also a good idea to read the abstract/summary at the top of the article so you have an idea of what the paper is about. Reading the other sections of the paper will give you more detail into what they did for the study, which will give more context, but isn't usually necessary to read the whole thing to understand the end results, which tell you what they found about the probiotics in relation to IBS.
+
+And of course, always talk to your doctor about medical stuff! I'm just providing this information in case it might be helpful. I am NOT giving medical advice or telling you all to take probiotics or endorsing any brands or types or anything. Whether you decide to take probiotics or not is up to you and your doctor. This is just an info dump in case anyone wanted to know this stuff.
+
+Here are the links:
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00434-X/fulltext
+
+https://www.sciencedirect.com/science/article/pii/S1590865819309594
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7279071/
+
+https://www.optibacprobiotics.com/learning-lab/in-depth/gut-health/which-probiotics-are-best-for-ibs#IBS-U
+
+https://www.frontiersin.org/articles/10.3389/fphar.2020.00332/full#B68
+
+https://badgut.org/information-centre/a-z-digestive-topics/probiotics-for-irritable-bowel-syndrome/
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3296087/
+
+https://pubmed.ncbi.nlm.nih.gov/33745570/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13201",2.4,1.5,2.0,1.6,"[3, 3, 0, 3, 3, 3, 3, 3, 0, 3]","[3, 3, 0, 3, 2, 1, 2, 0, 0, 1]","[3, 3, 0, 3, 3, 3, 3, 1, 0, 1]","[3, 3, 0, 3, 2, 1, 2, 1, 0, 1]",Barry_s2s_query_pio_pio_title_abstract annotations (2).json
+4,4,I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in,"Picking the correct meds?
+So I'm UK based and have just started titration through PsychiatryUK after waiting nearly a year.   
+
+
+Started on Xaggitin XL 18mg ( now on 36mg and then will go to 54mg ). It seems to work ... I wake up a lot easier as before I would wake up groggy and just completely unfunctional .. which would then lead to me being easily distracted etc, and my focus throughout the day seems improved ... mood seems improved ... but, at around 4pm I crash hard and just feel exhausted at night. I had some family over at the weekend and was unable to keep up in conversation. Also after a few days it seems to have less of an effect ... but then I up the dose and it works again. Obviously this won't be sustainable and I will eventually reach max dose.  
+
+
+I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in, which is a problem for me as I find it most difficult in the morning. I could wake earlier and take it, and then go back to bed ... or I've also seen some people who take Amfexa as a top up in the morning and then take Elvanse for the rest of the day. This seems totally ideal for me, and has the benefit where I can forgo the meds on weekends if I'm not working / doing much - but have the quick release to fall back on in the event something crops up.  
+
+
+The question is - can I request this? I scared to accept a med just because it works somewhat, as changing it seems like it would be a pain in the ass .. so I'd like to make an informed decision.. but also don't want to waste their time. I'm also scared to even mention Amfexa for fear of being labeled as someone just wanting a high.",2.3,2.1,1.9,1.7,"[3, 2, 3, 2, 3, 2, 2, 2, 3, 1]","[2, 3, 1, 2, 2, 2, 2, 1, 3, 3]","[2, 3, 1, 2, 2, 2, 2, 2, 2, 1]","[2, 2, 1, 2, 2, 2, 2, 1, 2, 1]",Barry_s2s_query_pio_pio_title_abstract annotations (2).json
+0,0," I believe it may make those medications work differently, but I am not sure","Grapefruit and siezures
+Guys, I am wondering if you have any issues or know about interactions between oxcarbazepine and/or levetiracetam and grapefruit? I believe it may make those medications work differently, but I am not sure.",2.4,1.3,2.3,1.2,"[3, 3, 1, 3, 1, 3, 3, 3, 2, 2]","[1, 1, 2, 1, 2, 1, 2, 1, 1, 1]","[2, 3, 2, 3, 1, 3, 2, 1, 3, 3]","[1, 1, 2, 1, 1, 1, 2, 1, 1, 1]",Barry_s2s_query_pio_title_abstract annotations.json
+1,1,"(vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron)","Anyone take Paxlovid?
+Hi everyone - one of my kids just tested positive for Covid so assuming I will as well in the next few days. I contacted my PCP and neuro who said that as soon as I test positive they would recommend getting me on Paxlovid as long as we can find it (vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron). Ive been doing my research on the drug but am curious if anyone has taken it yet. What was your experience? The worst side effect she mentioned was like a battery acid taste in your mouth for the entire 5-day regimen. Sounds gross but doable. 
+
+Thanks in advance for any insight.",3.0,2.2,2.9,2.2,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]","[3, 3, 2, 3, 2, 2, 1, 2, 2, 2]","[3, 3, 3, 3, 3, 3, 2, 3, 3, 3]","[3, 3, 2, 3, 2, 2, 1, 2, 2, 2]",Barry_s2s_query_pio_title_abstract annotations.json
+2,2,I was told  I should experiencing some relief after 2 days but still nothing.,"After your balloon sinuplasty, how long did it take you to get rid of your face pressure and shallow breathing?
+Its been 5 days since my procedure and I still have facial pressure. This effects me in negative ways like not being able to focus with my eyes. I also have trouble automatically deep breathing. Im just curious how long does it typically take to recover from these symptoms? I was told  I should experiencing some relief after 2 days but still nothing. Im starting to wonder if this is dental related.",1.0,1.0,1.1,1.0,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[2, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",Barry_s2s_query_pio_title_abstract annotations.json
+3,3,I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.,"Some Info on Probiotics for IBS
+So I posted this in a comment and it was suggested that I make this info its own post. I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.
+
+From the links below, the collective summary is that these probiotic strains (alone or in combination with others) were effective in one or more studies in reducing one or more IBS symptoms in frequency and/or severity: 
+
+Saccharomyces Boulardii CNCM I-745 (actually a yeast), Bifidobacterium longum 35624, Bifidobacterium infantis, Lactobacillus acidophilus, Lactobacillus plantarum 299v, Lactobacillus rhamnosus GG, Saccharomyces cerevisiae CNCM I-3856, Bifidobacterium lactis HN019, Bifidobacterium lactis BB-12, Lactobacillus acidophilus NCFM, Bifidobacterium lactis Bi-07, and Bifidobacterium bifidum MIMBb75.
+
+I may have missed a few in the above list, but the main gist is that Bifidobacterium and Lactobacillus species probiotics, as well as Saccharomyces Boulardii, are the main researched probiotics that show some kind of improvement for IBS (though it also depends on the type of IBS, and most of them helped with one or some symptoms but not all of them - see links below for more detail).
+
+Also, many of the studies couldn't draw conclusive evidence because there just wasn't enough data/research on specific probiotics yet, or because the studies didn't fulfill certain criteria. But they were able to state what evidence they did have, and identify what is likely to be the case based on findings so far.
+
+Bifidobacterium longum 35624 used to be called Bifidobacterium infantis 35624 and is still sometimes referred to that way. It is patented by Align, which is the brand name for that probiotic. Floraster is a leading brand name for Saccharomyces Boulardii CNCM I-745. There are other good probiotic brands too though (that have similar or different probiotic strains).
+
+A lot of this will be trial and error as you find what works for you. Be sure to give each probiotic or probiotic blend you try at least a 4 week trial, since it takes a bit of time for your body to adjust and for the probiotics to get to a certain level in your system to start working.
+
+It's a good idea to make sure that the probiotics are third-party tested and made in a GMC (or equivalent) registerred facility, to be sure you are getting exactly what's on the product label. I'm not sure exactly how it works in other countries, and that advice is US-based, but some level of quality assurance is generally advised.
+
+Also, for those who aren't used to reading research papers like this, usually the important information is in the Results and/or Discussion section. Sometimes they put a summary of those near the top, and sometimes you have to scroll to the end of the article. It's also a good idea to read the abstract/summary at the top of the article so you have an idea of what the paper is about. Reading the other sections of the paper will give you more detail into what they did for the study, which will give more context, but isn't usually necessary to read the whole thing to understand the end results, which tell you what they found about the probiotics in relation to IBS.
+
+And of course, always talk to your doctor about medical stuff! I'm just providing this information in case it might be helpful. I am NOT giving medical advice or telling you all to take probiotics or endorsing any brands or types or anything. Whether you decide to take probiotics or not is up to you and your doctor. This is just an info dump in case anyone wanted to know this stuff.
+
+Here are the links:
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00434-X/fulltext
+
+https://www.sciencedirect.com/science/article/pii/S1590865819309594
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7279071/
+
+https://www.optibacprobiotics.com/learning-lab/in-depth/gut-health/which-probiotics-are-best-for-ibs#IBS-U
+
+https://www.frontiersin.org/articles/10.3389/fphar.2020.00332/full#B68
+
+https://badgut.org/information-centre/a-z-digestive-topics/probiotics-for-irritable-bowel-syndrome/
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3296087/
+
+https://pubmed.ncbi.nlm.nih.gov/33745570/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13201",2.7,1.7,2.3,1.8,"[3, 3, 3, 3, 0, 3, 3, 3, 3, 3]","[3, 3, 3, 2, 0, 2, 1, 2, 1, 0]","[3, 3, 3, 3, 0, 3, 3, 3, 1, 1]","[3, 3, 3, 2, 0, 2, 1, 2, 1, 1]",Barry_s2s_query_pio_title_abstract annotations.json
+4,4,I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in,"Picking the correct meds?
+So I'm UK based and have just started titration through PsychiatryUK after waiting nearly a year.   
+
+
+Started on Xaggitin XL 18mg ( now on 36mg and then will go to 54mg ). It seems to work ... I wake up a lot easier as before I would wake up groggy and just completely unfunctional .. which would then lead to me being easily distracted etc, and my focus throughout the day seems improved ... mood seems improved ... but, at around 4pm I crash hard and just feel exhausted at night. I had some family over at the weekend and was unable to keep up in conversation. Also after a few days it seems to have less of an effect ... but then I up the dose and it works again. Obviously this won't be sustainable and I will eventually reach max dose.  
+
+
+I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in, which is a problem for me as I find it most difficult in the morning. I could wake earlier and take it, and then go back to bed ... or I've also seen some people who take Amfexa as a top up in the morning and then take Elvanse for the rest of the day. This seems totally ideal for me, and has the benefit where I can forgo the meds on weekends if I'm not working / doing much - but have the quick release to fall back on in the event something crops up.  
+
+
+The question is - can I request this? I scared to accept a med just because it works somewhat, as changing it seems like it would be a pain in the ass .. so I'd like to make an informed decision.. but also don't want to waste their time. I'm also scared to even mention Amfexa for fear of being labeled as someone just wanting a high.",2.5,2.1,2.0,1.8,"[3, 2, 3, 2, 2, 2, 3, 3, 2, 3]","[2, 3, 1, 2, 1, 2, 3, 2, 2, 3]","[2, 3, 1, 2, 2, 2, 2, 2, 2, 2]","[2, 2, 1, 2, 1, 2, 2, 2, 2, 2]",Barry_s2s_query_pio_title_abstract annotations.json
+0,0," I believe it may make those medications work differently, but I am not sure","Grapefruit and siezures
+Guys, I am wondering if you have any issues or know about interactions between oxcarbazepine and/or levetiracetam and grapefruit? I believe it may make those medications work differently, but I am not sure.",2.5,1.3,2.6,1.2,"[3, 1, 3, 3, 2, 3, 3, 1, 3, 3]","[1, 2, 1, 1, 1, 1, 1, 2, 1, 2]","[3, 2, 3, 2, 3, 3, 3, 1, 3, 3]","[1, 2, 1, 1, 1, 1, 1, 1, 1, 2]",Barry_s2s_query_pio_abstract_only annotation.json
+1,1,"(vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron)","Anyone take Paxlovid?
+Hi everyone - one of my kids just tested positive for Covid so assuming I will as well in the next few days. I contacted my PCP and neuro who said that as soon as I test positive they would recommend getting me on Paxlovid as long as we can find it (vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron). Ive been doing my research on the drug but am curious if anyone has taken it yet. What was your experience? The worst side effect she mentioned was like a battery acid taste in your mouth for the entire 5-day regimen. Sounds gross but doable. 
+
+Thanks in advance for any insight.",3.0,2.4,3.0,2.4,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]","[3, 3, 2, 3, 2, 2, 2, 2, 3, 2]","[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]","[3, 3, 2, 3, 2, 2, 2, 2, 3, 2]",Barry_s2s_query_pio_abstract_only annotation.json
+2,2,I was told  I should experiencing some relief after 2 days but still nothing.,"After your balloon sinuplasty, how long did it take you to get rid of your face pressure and shallow breathing?
+Its been 5 days since my procedure and I still have facial pressure. This effects me in negative ways like not being able to focus with my eyes. I also have trouble automatically deep breathing. Im just curious how long does it typically take to recover from these symptoms? I was told  I should experiencing some relief after 2 days but still nothing. Im starting to wonder if this is dental related.",1.0,0.9,1.1,1.0,"[1, 1, 1, 1, 1, 1, 1, 2, 0, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 0, 1]","[2, 1, 1, 1, 1, 1, 1, 2, 0, 1]","[1, 1, 1, 1, 1, 1, 1, 2, 0, 1]",Barry_s2s_query_pio_abstract_only annotation.json
+3,3,I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.,"Some Info on Probiotics for IBS
+So I posted this in a comment and it was suggested that I make this info its own post. I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.
+
+From the links below, the collective summary is that these probiotic strains (alone or in combination with others) were effective in one or more studies in reducing one or more IBS symptoms in frequency and/or severity: 
+
+Saccharomyces Boulardii CNCM I-745 (actually a yeast), Bifidobacterium longum 35624, Bifidobacterium infantis, Lactobacillus acidophilus, Lactobacillus plantarum 299v, Lactobacillus rhamnosus GG, Saccharomyces cerevisiae CNCM I-3856, Bifidobacterium lactis HN019, Bifidobacterium lactis BB-12, Lactobacillus acidophilus NCFM, Bifidobacterium lactis Bi-07, and Bifidobacterium bifidum MIMBb75.
+
+I may have missed a few in the above list, but the main gist is that Bifidobacterium and Lactobacillus species probiotics, as well as Saccharomyces Boulardii, are the main researched probiotics that show some kind of improvement for IBS (though it also depends on the type of IBS, and most of them helped with one or some symptoms but not all of them - see links below for more detail).
+
+Also, many of the studies couldn't draw conclusive evidence because there just wasn't enough data/research on specific probiotics yet, or because the studies didn't fulfill certain criteria. But they were able to state what evidence they did have, and identify what is likely to be the case based on findings so far.
+
+Bifidobacterium longum 35624 used to be called Bifidobacterium infantis 35624 and is still sometimes referred to that way. It is patented by Align, which is the brand name for that probiotic. Floraster is a leading brand name for Saccharomyces Boulardii CNCM I-745. There are other good probiotic brands too though (that have similar or different probiotic strains).
+
+A lot of this will be trial and error as you find what works for you. Be sure to give each probiotic or probiotic blend you try at least a 4 week trial, since it takes a bit of time for your body to adjust and for the probiotics to get to a certain level in your system to start working.
+
+It's a good idea to make sure that the probiotics are third-party tested and made in a GMC (or equivalent) registerred facility, to be sure you are getting exactly what's on the product label. I'm not sure exactly how it works in other countries, and that advice is US-based, but some level of quality assurance is generally advised.
+
+Also, for those who aren't used to reading research papers like this, usually the important information is in the Results and/or Discussion section. Sometimes they put a summary of those near the top, and sometimes you have to scroll to the end of the article. It's also a good idea to read the abstract/summary at the top of the article so you have an idea of what the paper is about. Reading the other sections of the paper will give you more detail into what they did for the study, which will give more context, but isn't usually necessary to read the whole thing to understand the end results, which tell you what they found about the probiotics in relation to IBS.
+
+And of course, always talk to your doctor about medical stuff! I'm just providing this information in case it might be helpful. I am NOT giving medical advice or telling you all to take probiotics or endorsing any brands or types or anything. Whether you decide to take probiotics or not is up to you and your doctor. This is just an info dump in case anyone wanted to know this stuff.
+
+Here are the links:
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00434-X/fulltext
+
+https://www.sciencedirect.com/science/article/pii/S1590865819309594
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7279071/
+
+https://www.optibacprobiotics.com/learning-lab/in-depth/gut-health/which-probiotics-are-best-for-ibs#IBS-U
+
+https://www.frontiersin.org/articles/10.3389/fphar.2020.00332/full#B68
+
+https://badgut.org/information-centre/a-z-digestive-topics/probiotics-for-irritable-bowel-syndrome/
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3296087/
+
+https://pubmed.ncbi.nlm.nih.gov/33745570/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13201",3.0,1.9,2.6,2.0,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]","[3, 3, 3, 2, 2, 1, 1, 2, 0, 2]","[3, 3, 3, 3, 3, 3, 1, 3, 1, 3]","[3, 3, 3, 2, 2, 1, 1, 2, 1, 2]",Barry_s2s_query_pio_abstract_only annotation.json
+4,4,I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in,"Picking the correct meds?
+So I'm UK based and have just started titration through PsychiatryUK after waiting nearly a year.   
+
+
+Started on Xaggitin XL 18mg ( now on 36mg and then will go to 54mg ). It seems to work ... I wake up a lot easier as before I would wake up groggy and just completely unfunctional .. which would then lead to me being easily distracted etc, and my focus throughout the day seems improved ... mood seems improved ... but, at around 4pm I crash hard and just feel exhausted at night. I had some family over at the weekend and was unable to keep up in conversation. Also after a few days it seems to have less of an effect ... but then I up the dose and it works again. Obviously this won't be sustainable and I will eventually reach max dose.  
+
+
+I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in, which is a problem for me as I find it most difficult in the morning. I could wake earlier and take it, and then go back to bed ... or I've also seen some people who take Amfexa as a top up in the morning and then take Elvanse for the rest of the day. This seems totally ideal for me, and has the benefit where I can forgo the meds on weekends if I'm not working / doing much - but have the quick release to fall back on in the event something crops up.  
+
+
+The question is - can I request this? I scared to accept a med just because it works somewhat, as changing it seems like it would be a pain in the ass .. so I'd like to make an informed decision.. but also don't want to waste their time. I'm also scared to even mention Amfexa for fear of being labeled as someone just wanting a high.",2.3,1.9,1.9,1.7,"[3, 2, 3, 2, 3, 2, 2, 2, 3, 1]","[2, 3, 1, 2, 2, 2, 2, 1, 3, 1]","[2, 3, 1, 2, 2, 2, 2, 2, 2, 1]","[2, 2, 1, 2, 2, 2, 2, 1, 2, 1]",Barry_s2s_query_pio_abstract_only annotation.json
+0,0," I believe it may make those medications work differently, but I am not sure","Grapefruit and siezures
+Guys, I am wondering if you have any issues or know about interactions between oxcarbazepine and/or levetiracetam and grapefruit? I believe it may make those medications work differently, but I am not sure.",2.7,1.4,2.4,1.3,"[3, 3, 3, 3, 3, 3, 3, 3, 1, 2]","[1, 2, 1, 2, 1, 1, 2, 1, 2, 1]","[3, 2, 2, 3, 3, 3, 3, 3, 1, 1]","[1, 2, 1, 2, 1, 1, 2, 1, 1, 1]",Barry_s2p_query_pio_pio_only annotations.json
+1,1,"(vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron)","Anyone take Paxlovid?
+Hi everyone - one of my kids just tested positive for Covid so assuming I will as well in the next few days. I contacted my PCP and neuro who said that as soon as I test positive they would recommend getting me on Paxlovid as long as we can find it (vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron). Ive been doing my research on the drug but am curious if anyone has taken it yet. What was your experience? The worst side effect she mentioned was like a battery acid taste in your mouth for the entire 5-day regimen. Sounds gross but doable. 
+
+Thanks in advance for any insight.",3.0,2.6,3.0,2.6,"[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]","[2, 3, 3, 2, 3, 3, 2, 3, 3, 2]","[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]","[2, 3, 3, 2, 3, 3, 2, 3, 3, 2]",Barry_s2p_query_pio_pio_only annotations.json
+2,2,I was told  I should experiencing some relief after 2 days but still nothing.,"After your balloon sinuplasty, how long did it take you to get rid of your face pressure and shallow breathing?
+Its been 5 days since my procedure and I still have facial pressure. This effects me in negative ways like not being able to focus with my eyes. I also have trouble automatically deep breathing. Im just curious how long does it typically take to recover from these symptoms? I was told  I should experiencing some relief after 2 days but still nothing. Im starting to wonder if this is dental related.",1.0,1.1,1.1,1.0,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 2, 1, 1]","[1, 1, 1, 2, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",Barry_s2p_query_pio_pio_only annotations.json
+3,3,I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.,"Some Info on Probiotics for IBS
+So I posted this in a comment and it was suggested that I make this info its own post. I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.
+
+From the links below, the collective summary is that these probiotic strains (alone or in combination with others) were effective in one or more studies in reducing one or more IBS symptoms in frequency and/or severity: 
+
+Saccharomyces Boulardii CNCM I-745 (actually a yeast), Bifidobacterium longum 35624, Bifidobacterium infantis, Lactobacillus acidophilus, Lactobacillus plantarum 299v, Lactobacillus rhamnosus GG, Saccharomyces cerevisiae CNCM I-3856, Bifidobacterium lactis HN019, Bifidobacterium lactis BB-12, Lactobacillus acidophilus NCFM, Bifidobacterium lactis Bi-07, and Bifidobacterium bifidum MIMBb75.
+
+I may have missed a few in the above list, but the main gist is that Bifidobacterium and Lactobacillus species probiotics, as well as Saccharomyces Boulardii, are the main researched probiotics that show some kind of improvement for IBS (though it also depends on the type of IBS, and most of them helped with one or some symptoms but not all of them - see links below for more detail).
+
+Also, many of the studies couldn't draw conclusive evidence because there just wasn't enough data/research on specific probiotics yet, or because the studies didn't fulfill certain criteria. But they were able to state what evidence they did have, and identify what is likely to be the case based on findings so far.
+
+Bifidobacterium longum 35624 used to be called Bifidobacterium infantis 35624 and is still sometimes referred to that way. It is patented by Align, which is the brand name for that probiotic. Floraster is a leading brand name for Saccharomyces Boulardii CNCM I-745. There are other good probiotic brands too though (that have similar or different probiotic strains).
+
+A lot of this will be trial and error as you find what works for you. Be sure to give each probiotic or probiotic blend you try at least a 4 week trial, since it takes a bit of time for your body to adjust and for the probiotics to get to a certain level in your system to start working.
+
+It's a good idea to make sure that the probiotics are third-party tested and made in a GMC (or equivalent) registerred facility, to be sure you are getting exactly what's on the product label. I'm not sure exactly how it works in other countries, and that advice is US-based, but some level of quality assurance is generally advised.
+
+Also, for those who aren't used to reading research papers like this, usually the important information is in the Results and/or Discussion section. Sometimes they put a summary of those near the top, and sometimes you have to scroll to the end of the article. It's also a good idea to read the abstract/summary at the top of the article so you have an idea of what the paper is about. Reading the other sections of the paper will give you more detail into what they did for the study, which will give more context, but isn't usually necessary to read the whole thing to understand the end results, which tell you what they found about the probiotics in relation to IBS.
+
+And of course, always talk to your doctor about medical stuff! I'm just providing this information in case it might be helpful. I am NOT giving medical advice or telling you all to take probiotics or endorsing any brands or types or anything. Whether you decide to take probiotics or not is up to you and your doctor. This is just an info dump in case anyone wanted to know this stuff.
+
+Here are the links:
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00434-X/fulltext
+
+https://www.sciencedirect.com/science/article/pii/S1590865819309594
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7279071/
+
+https://www.optibacprobiotics.com/learning-lab/in-depth/gut-health/which-probiotics-are-best-for-ibs#IBS-U
+
+https://www.frontiersin.org/articles/10.3389/fphar.2020.00332/full#B68
+
+https://badgut.org/information-centre/a-z-digestive-topics/probiotics-for-irritable-bowel-syndrome/
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3296087/
+
+https://pubmed.ncbi.nlm.nih.gov/33745570/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13201",2.4,1.5,2.0,1.6,"[3, 0, 3, 3, 3, 3, 3, 0, 3, 3]","[3, 0, 3, 3, 1, 0, 1, 0, 2, 2]","[3, 0, 3, 3, 3, 1, 1, 0, 3, 3]","[3, 0, 3, 3, 1, 1, 1, 0, 2, 2]",Barry_s2p_query_pio_pio_only annotations.json
+4,4,I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in,"Picking the correct meds?
+So I'm UK based and have just started titration through PsychiatryUK after waiting nearly a year.   
+
+
+Started on Xaggitin XL 18mg ( now on 36mg and then will go to 54mg ). It seems to work ... I wake up a lot easier as before I would wake up groggy and just completely unfunctional .. which would then lead to me being easily distracted etc, and my focus throughout the day seems improved ... mood seems improved ... but, at around 4pm I crash hard and just feel exhausted at night. I had some family over at the weekend and was unable to keep up in conversation. Also after a few days it seems to have less of an effect ... but then I up the dose and it works again. Obviously this won't be sustainable and I will eventually reach max dose.  
+
+
+I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in, which is a problem for me as I find it most difficult in the morning. I could wake earlier and take it, and then go back to bed ... or I've also seen some people who take Amfexa as a top up in the morning and then take Elvanse for the rest of the day. This seems totally ideal for me, and has the benefit where I can forgo the meds on weekends if I'm not working / doing much - but have the quick release to fall back on in the event something crops up.  
+
+
+The question is - can I request this? I scared to accept a med just because it works somewhat, as changing it seems like it would be a pain in the ass .. so I'd like to make an informed decision.. but also don't want to waste their time. I'm also scared to even mention Amfexa for fear of being labeled as someone just wanting a high.",2.3,2.0,1.8,1.6,"[3, 2, 3, 3, 3, 3, 2, 2, 1, 1]","[2, 1, 3, 2, 3, 1, 2, 3, 2, 1]","[2, 2, 2, 2, 2, 1, 2, 3, 1, 1]","[2, 1, 2, 2, 2, 1, 2, 2, 1, 1]",Barry_s2p_query_pio_pio_only annotations.json
+0,0," I believe it may make those medications work differently, but I am not sure","Grapefruit and siezures
+Guys, I am wondering if you have any issues or know about interactions between oxcarbazepine and/or levetiracetam and grapefruit? I believe it may make those medications work differently, but I am not sure.",2.6,1.5,2.5,1.4,"[3, 3, 3, 3, 3, 3, 1, 3, 1, 3]","[1, 2, 2, 1, 2, 1, 2, 1, 2, 1]","[2, 3, 2, 3, 3, 3, 2, 3, 1, 3]","[1, 2, 2, 1, 2, 1, 2, 1, 1, 1]",Barry_question_pio_s2p_query_pio_only annotations.json
+1,1,"(vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron)","Anyone take Paxlovid?
+Hi everyone - one of my kids just tested positive for Covid so assuming I will as well in the next few days. I contacted my PCP and neuro who said that as soon as I test positive they would recommend getting me on Paxlovid as long as we can find it (vs monoclonal antibody infusions, as apparently those are not working quite as effectively against Omicron). Ive been doing my research on the drug but am curious if anyone has taken it yet. What was your experience? The worst side effect she mentioned was like a battery acid taste in your mouth for the entire 5-day regimen. Sounds gross but doable. 
+
+Thanks in advance for any insight.",2.7,1.9,2.5,1.9,"[3, 3, 3, 3, 3, 3, 0, 3, 3, 3]","[2, 3, 2, 1, 2, 3, 0, 2, 1, 3]","[3, 3, 3, 2, 3, 3, 0, 3, 2, 3]","[2, 3, 2, 1, 2, 3, 0, 2, 1, 3]",Barry_question_pio_s2p_query_pio_only annotations.json
+2,2,I was told  I should experiencing some relief after 2 days but still nothing.,"After your balloon sinuplasty, how long did it take you to get rid of your face pressure and shallow breathing?
+Its been 5 days since my procedure and I still have facial pressure. This effects me in negative ways like not being able to focus with my eyes. I also have trouble automatically deep breathing. Im just curious how long does it typically take to recover from these symptoms? I was told  I should experiencing some relief after 2 days but still nothing. Im starting to wonder if this is dental related.",1.2,1.1,1.0,0.9,"[1, 1, 1, 1, 1, 1, 1, 2, 2, 1]","[1, 1, 1, 2, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[1, 1, 1, 0, 1, 1, 1, 1, 1, 1]",Barry_question_pio_s2p_query_pio_only annotations.json
+3,3,I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.,"Some Info on Probiotics for IBS
+So I posted this in a comment and it was suggested that I make this info its own post. I did a bunch of research into what probiotics have shown to be effective for IBS in various research studies.
+
+From the links below, the collective summary is that these probiotic strains (alone or in combination with others) were effective in one or more studies in reducing one or more IBS symptoms in frequency and/or severity: 
+
+Saccharomyces Boulardii CNCM I-745 (actually a yeast), Bifidobacterium longum 35624, Bifidobacterium infantis, Lactobacillus acidophilus, Lactobacillus plantarum 299v, Lactobacillus rhamnosus GG, Saccharomyces cerevisiae CNCM I-3856, Bifidobacterium lactis HN019, Bifidobacterium lactis BB-12, Lactobacillus acidophilus NCFM, Bifidobacterium lactis Bi-07, and Bifidobacterium bifidum MIMBb75.
+
+I may have missed a few in the above list, but the main gist is that Bifidobacterium and Lactobacillus species probiotics, as well as Saccharomyces Boulardii, are the main researched probiotics that show some kind of improvement for IBS (though it also depends on the type of IBS, and most of them helped with one or some symptoms but not all of them - see links below for more detail).
+
+Also, many of the studies couldn't draw conclusive evidence because there just wasn't enough data/research on specific probiotics yet, or because the studies didn't fulfill certain criteria. But they were able to state what evidence they did have, and identify what is likely to be the case based on findings so far.
+
+Bifidobacterium longum 35624 used to be called Bifidobacterium infantis 35624 and is still sometimes referred to that way. It is patented by Align, which is the brand name for that probiotic. Floraster is a leading brand name for Saccharomyces Boulardii CNCM I-745. There are other good probiotic brands too though (that have similar or different probiotic strains).
+
+A lot of this will be trial and error as you find what works for you. Be sure to give each probiotic or probiotic blend you try at least a 4 week trial, since it takes a bit of time for your body to adjust and for the probiotics to get to a certain level in your system to start working.
+
+It's a good idea to make sure that the probiotics are third-party tested and made in a GMC (or equivalent) registerred facility, to be sure you are getting exactly what's on the product label. I'm not sure exactly how it works in other countries, and that advice is US-based, but some level of quality assurance is generally advised.
+
+Also, for those who aren't used to reading research papers like this, usually the important information is in the Results and/or Discussion section. Sometimes they put a summary of those near the top, and sometimes you have to scroll to the end of the article. It's also a good idea to read the abstract/summary at the top of the article so you have an idea of what the paper is about. Reading the other sections of the paper will give you more detail into what they did for the study, which will give more context, but isn't usually necessary to read the whole thing to understand the end results, which tell you what they found about the probiotics in relation to IBS.
+
+And of course, always talk to your doctor about medical stuff! I'm just providing this information in case it might be helpful. I am NOT giving medical advice or telling you all to take probiotics or endorsing any brands or types or anything. Whether you decide to take probiotics or not is up to you and your doctor. This is just an info dump in case anyone wanted to know this stuff.
+
+Here are the links:
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00434-X/fulltext
+
+https://www.sciencedirect.com/science/article/pii/S1590865819309594
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7279071/
+
+https://www.optibacprobiotics.com/learning-lab/in-depth/gut-health/which-probiotics-are-best-for-ibs#IBS-U
+
+https://www.frontiersin.org/articles/10.3389/fphar.2020.00332/full#B68
+
+https://badgut.org/information-centre/a-z-digestive-topics/probiotics-for-irritable-bowel-syndrome/
+
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3296087/
+
+https://pubmed.ncbi.nlm.nih.gov/33745570/
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13201",2.3,1.8,2.2,1.8,"[3, 3, 3, 0, 3, 3, 0, 3, 3, 2]","[3, 3, 3, 0, 2, 1, 0, 0, 3, 3]","[3, 3, 3, 0, 3, 3, 0, 1, 3, 3]","[3, 3, 3, 0, 2, 1, 0, 1, 3, 2]",Barry_question_pio_s2p_query_pio_only annotations.json
+4,4,I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in,"Picking the correct meds?
+So I'm UK based and have just started titration through PsychiatryUK after waiting nearly a year.   
+
+
+Started on Xaggitin XL 18mg ( now on 36mg and then will go to 54mg ). It seems to work ... I wake up a lot easier as before I would wake up groggy and just completely unfunctional .. which would then lead to me being easily distracted etc, and my focus throughout the day seems improved ... mood seems improved ... but, at around 4pm I crash hard and just feel exhausted at night. I had some family over at the weekend and was unable to keep up in conversation. Also after a few days it seems to have less of an effect ... but then I up the dose and it works again. Obviously this won't be sustainable and I will eventually reach max dose.  
+
+
+I would like to try Elvanse next as I've heard people say the come down is less brutal ... but it takes longer to kick in, which is a problem for me as I find it most difficult in the morning. I could wake earlier and take it, and then go back to bed ... or I've also seen some people who take Amfexa as a top up in the morning and then take Elvanse for the rest of the day. This seems totally ideal for me, and has the benefit where I can forgo the meds on weekends if I'm not working / doing much - but have the quick release to fall back on in the event something crops up.  
+
+
+The question is - can I request this? I scared to accept a med just because it works somewhat, as changing it seems like it would be a pain in the ass .. so I'd like to make an informed decision.. but also don't want to waste their time. I'm also scared to even mention Amfexa for fear of being labeled as someone just wanting a high.",2.1,1.8,1.6,1.4,"[3, 1, 1, 3, 2, 3, 2, 0, 3, 3]","[3, 2, 1, 2, 1, 2, 3, 0, 3, 1]","[2, 1, 1, 2, 2, 2, 3, 0, 2, 1]","[2, 1, 1, 2, 1, 2, 2, 0, 2, 1]",Barry_question_pio_s2p_query_pio_only annotations.json
