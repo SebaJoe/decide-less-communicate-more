@@ -18,10 +18,6 @@ To explore the annotations:
 ![Abstract Level Annotations](img/abs.png)
 
 
-Refer to annotation_data folder to see annotations across six different annotators for 3 splits.
-
-Refer to retrieval_test to see the jsons of the 8 different strategies and their corresponding relevance annotations.
-
 # Repository Structure
 `annotation_data/` 
 * Contains annotations from six annotators
