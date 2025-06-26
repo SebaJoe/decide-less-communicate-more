@@ -29,8 +29,8 @@ To explore the annotations:
 * Filenames follow the format `<annotatorID>_split<splitNumber>.json` (e.g., `3_split1.json`)
 
 `retrieval_test/` 
-* Contains `.json` files for eight different RCT abstract retrieval strategies
-* `relevance_anno/` has eight `.json` files with the relevance annotated for each RCT abstract
+* Contains `.json` files for eight retrieval strategies, each applied to 5 medical claims (10 RCT abstracts per claim)
+* The `relevance_anno/` folder contains manual relevance annotations for each strategy and retrieved abstract
 
 `redhot_viewer`
 * Linked repository containing the source code for the annotation interface
