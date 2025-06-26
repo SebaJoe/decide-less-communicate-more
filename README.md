@@ -10,15 +10,14 @@ Please contact Sebastian Joseph (sebaj@utexas.edu) or Lily Chen (l1ly@mit.edu) i
 To explore the annotations:
 1. Visit the viewer [Annotation Interface](https://sebajoe.github.io/redhot_viewer/)
 2. Upload the corresponding `.json` file from the `annotation_data/` or `retrieval_test/` folders
-   
-You can use the interface to load your own data as long as it follows the same JSON format. For internal annotation instructions, refer to this [presentation](https://docs.google.com/presentation/d/1hz-jw6UKyi0cDkzWuJoKoLTYP4ejuqwR-WPpuZMTg7o/edit?slide=id.g33d47a9936b_0_0#slide=id.g33d47a9936b_0_0).
-
 
 ![Claims](img/claims.png)
 ![PIO Elements](img/pios.png)
 ![Tiers](img/tiers.png)
 ![Label and Explanation](img/exps.png)
 ![Abstract Level Annotations](img/abs.png)
+
+> 💡 If you'd like to perform your own annotations using the interface, ensure your data follows the same `.json` format as used in this study. For annotation instrcutions used in our study, see this [presentation](https://docs.google.com/presentation/d/1hz-jw6UKyi0cDkzWuJoKoLTYP4ejuqwR-WPpuZMTg7o/edit?slide=id.g33d47a9936b_0_0#slide=id.g33d47a9936b_0_0).
 
 # Repository Structure
 `annotation_data/` 
