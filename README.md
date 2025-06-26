@@ -11,11 +11,6 @@ To explore the annotations:
 1. Visit the viewer [Annotation Interface](https://sebajoe.github.io/redhot_viewer/)
 2. Upload the corresponding `.json` file from the `annotation_data/` or `retrieval_test/` folders
 
-
-Refer to annotation_data folder to see annotations across six different annotators for 3 splits.
-
-Refer to retrieval_test to see the jsons of the 8 different strategies and their corresponding relevance annotations.
-
 ![Claims](img/claims.png)
 ![PIO Elements](img/pios.png)
 ![Tiers](img/tiers.png)
@@ -23,6 +18,21 @@ Refer to retrieval_test to see the jsons of the 8 different strategies and their
 ![Abstract Level Annotations](img/abs.png)
 
 
+Refer to annotation_data folder to see annotations across six different annotators for 3 splits.
+
+Refer to retrieval_test to see the jsons of the 8 different strategies and their corresponding relevance annotations.
+
+# Repository Structure
+`annotation_data/` 
+* Contains annotations from six annotators
+* Covers three splits. Split 1: First pilot set of 10 claims, split 2: refinement set of 5 claims, split 3: final set of 5 claims.
+
+`retrieval_test/` 
+* Includes `.json` files for eight different RCT abstract retrieval strategies
+* `relevance_anno/` has eight `.json` files with the relevance annotated for each RCT abstract
+
+`redhot_viewer`
+* Source code for the annotation interface.
 
 ## Citation
 Coming soon.
