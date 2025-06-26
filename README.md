@@ -28,7 +28,8 @@ To explore the annotations:
 * `relevance_anno/` has eight `.json` files with the relevance annotated for each RCT abstract
 
 `redhot_viewer`
-* Source code for the annotation interface.
+* Linked repository for the annotation interface code.
 
 ## Citation
+If you found any of these resources useful, please consider citing our paper.
 Coming soon.
