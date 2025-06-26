@@ -17,7 +17,6 @@ To explore the annotations:
 ![Label and Explanation](img/exps.png)
 ![Abstract Level Annotations](img/abs.png)
 
-
 # Repository Structure
 `annotation_data/` 
 * Contains annotations from six annotators
