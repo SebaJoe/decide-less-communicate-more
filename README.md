@@ -30,6 +30,6 @@ To explore the annotations:
 `redhot_viewer`
 * Linked repository for the annotation interface code.
 
-## Citation
+# Citation
 If you found any of these resources useful, please consider citing our paper.
 Coming soon.
