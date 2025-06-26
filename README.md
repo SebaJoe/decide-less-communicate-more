@@ -16,7 +16,6 @@ To explore the annotations:
 ![Tiers](img/tiers.png)
 ![Label and Explanation](img/exps.png)
 ![Abstract Level Annotations](img/abs.png)
-
 > 💡 If you'd like to perform your own annotations using the interface, ensure your data follows the same `.json` format as used in this study. For annotation instrcutions used in our study, see this [presentation](https://docs.google.com/presentation/d/1hz-jw6UKyi0cDkzWuJoKoLTYP4ejuqwR-WPpuZMTg7o/edit?slide=id.g33d47a9936b_0_0#slide=id.g33d47a9936b_0_0).
 
 # Repository Structure
