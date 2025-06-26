@@ -21,15 +21,19 @@ To explore the annotations:
 
 # Repository Structure
 `annotation_data/` 
-* Contains annotations from six annotators
-* Covers three splits. Split 1: First pilot set of 10 claims, split 2: refinement set of 5 claims, split 3: final set of 5 claims.
+* Annotations from six annotators
+* Covers three splits:
+  * Split 1: First pilot set of 10 claims
+  * Split 2: Refinement set of 5 claims
+  * Split 3: Final set of 5 claims
+* Filenames follow the format `<annotatorID>_split<splitNumber>.json` (e.g., `3_split1.json`)
 
 `retrieval_test/` 
-* Includes `.json` files for eight different RCT abstract retrieval strategies
+* Contains `.json` files for eight different RCT abstract retrieval strategies
 * `relevance_anno/` has eight `.json` files with the relevance annotated for each RCT abstract
 
 `redhot_viewer`
-* Linked repository for the annotation interface code.
+* Linked repository containing the source code for the annotation interface
 
 # Citation
 If you found any of these resources useful, please consider citing our paper.
