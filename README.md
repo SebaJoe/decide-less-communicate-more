@@ -1,12 +1,16 @@
 # Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine
 
-This is the repository where we release the data and the annotation interface described in the paper "Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine".
+This is the repository where we release the annotation data and interface described in our paper: "Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine".
 
 ![Task Overview](img/Task_fig.png)
 
 Please contact Sebastian Joseph (sebaj@utexas.edu) or Lily Chen (l1ly@mit.edu) if you need access to any of the data or code not found in this repository.
 
-To view the annotations, use this annotation interface link: https://sebajoe.github.io/redhot_viewer/. Then upload the corresponding json to see the annotations.
+# Annotation Interface
+To explore the annotations:
+1. Visit the viewer [Annotation Interface](https://sebajoe.github.io/redhot_viewer/)
+2. Upload the corresponding `.json` file from the `annotation_data/` or `retrieval_test/` folders
+
 
 Refer to annotation_data folder to see annotations across six different annotators for 3 splits.
 
