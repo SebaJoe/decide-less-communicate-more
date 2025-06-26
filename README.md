@@ -21,6 +21,7 @@ To explore the annotations:
 # Repository Structure
 `annotation_data/` 
 * Annotations from six annotators
+* Each medical claim is paired with 10 retrieved RCT abstracts
 * Covers three splits:
   * Split 1: First pilot set of 10 claims
   * Split 2: Refinement set of 5 claims
@@ -28,7 +29,7 @@ To explore the annotations:
 * Filenames follow the format `<annotatorID>_split<splitNumber>.json` (e.g., `3_split1.json`)
 
 `retrieval_test/` 
-* Contains `.json` files for eight retrieval strategies, each applied to 5 medical claims (10 RCT abstracts per claim)
+* Contains `.json` files for eight retrieval strategies, each applied to 5 medical claims
 * The `relevance_anno/` folder contains manual relevance annotations for each strategy and retrieved abstract
 
 `redhot_viewer`
