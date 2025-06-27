@@ -36,7 +36,7 @@ To explore the annotations:
 * Linked repository containing the source code for the annotation interface
 
 # Citation
-If you found any of these resources useful, please consider citing our paper.
+If you found any of these resources useful, please consider citing [our paper](https://arxiv.org/abs/2506.20876).
 
 ```{bibtex}
 @misc{joseph2025decidelesscommunicatemore,
