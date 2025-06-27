@@ -37,7 +37,9 @@ To explore the annotations:
 
 # Citation
 If you found any of these resources useful, please consider citing our paper.
-```@misc{joseph2025decidelesscommunicatemore,
+
+```{bibtex}
+@misc{joseph2025decidelesscommunicatemore,
       title={Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine}, 
       author={Sebastian Joseph and Lily Chen and Barry Wei and Michael Mackert and Iain J. Marshall and Paul Pu Liang and Ramez Kouzy and Byron C. Wallace and Junyi Jessy Li},
       year={2025},
