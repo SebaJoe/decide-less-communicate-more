@@ -1,6 +1,6 @@
 # Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine
 
-This is the repository where we release the annotation data and interface described in our paper: "Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine".
+This is the repository where we release the annotation data and interface described in our paper: ["Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine"](https://arxiv.org/abs/2506.20876).
 
 ![Task Overview](img/Task_fig.png)
 
