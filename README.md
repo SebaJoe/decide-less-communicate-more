@@ -27,7 +27,7 @@ To explore the annotations:
   * **Split 2**: Refinement set of 5 claims
   * **Split 3**: Final set of 5 claims
 * Filenames follow the format `<annotatorID>_split<splitNumber>.json` (e.g., `3_split1.json`)
-* Note: Annotator 4 was unavailable for the third split, so there is no `4_split3.json`
+* Note: Annotator 4 was unavailable for the third split, so `4_split3.json` is not included
 
 `retrieval_test/` 
 * Contains `.json` files for eight retrieval strategies, each applied to 5 medical claims
