@@ -1,6 +1,6 @@
 # Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine
 
-This is the repository where we release the annotation data and interface described in our paper: ["Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine"](https://arxiv.org/abs/2506.20876).
+This is the repository where we release the annotation data and interface described in our paper: ["Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine"](https://aclanthology.org/2026.findings-acl.496/).
 
 ![Task Overview](img/Task_fig.png)
 
@@ -40,13 +40,30 @@ To explore the annotations:
 If you found any of these resources useful, please consider citing [our paper](https://arxiv.org/abs/2506.20876).
 
 ```{bibtex}
-@misc{joseph2025decidelesscommunicatemore,
-      title={Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine}, 
-      author={Sebastian Joseph and Lily Chen and Barry Wei and Michael Mackert and Iain J. Marshall and Paul Pu Liang and Ramez Kouzy and Byron C. Wallace and Junyi Jessy Li},
-      year={2025},
-      eprint={2506.20876},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.20876}, 
+@inproceedings{joseph-etal-2026-decide,
+    title = "Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine",
+    author = "Joseph, Sebastian Antony  and
+      Chen, Lily  and
+      Wei, Barry  and
+      Mackert, Michael  and
+      Marshall, Iain James  and
+      Liang, Paul Pu  and
+      Kouzy, Ramez  and
+      Wallace, Byron C  and
+      Li, Junyi Jessy",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.496/",
+    doi = "10.18653/v1/2026.findings-acl.496",
+    pages = "10196--10221",
+    ISBN = "979-8-89176-395-1",
+    abstract = "Technological progress has led to concrete advancements in tasks that were regarded as challenging, such as automatic fact-checking. Interest in adopting these systems for public health and medicine has grown due to the high-stakes nature of medical decisions and challenges in critically appraising a vast and diverse medical literature. Evidence-based medicine connects to every individual, and yet the nature of it is highly technical, rendering the medical literacy of majority users inadequate to sufficiently navigate the domain. Such problems with medical communication ripen the ground for end-to-end fact-checking agents: check a claim against current medical literature and return with an evidence-backed verdict. And yet, such systems remain largely unused.In this position paper, developed with expert input, we present the first study examining how clinical experts verify real claims from social media by synthesizing medical evidence. In searching for this upper-bound, we reveal fundamental challenges in end-to-end fact-checking when applied to medicine: Difficulties connecting claims in the wild to scientific evidence in the form of clinical trials; ambiguities in underspecified claims mixed with mismatched intentions; and inherently subjective veracity labels. We argue that fact-checking should be approached as an interactive communication problem, rather than an end-to-end process."
 }
 ```
