@@ -37,7 +37,7 @@ To explore the annotations:
 * Linked repository containing the source code for the annotation interface
 
 # Citation
-If you found any of these resources useful, please consider citing [our paper](https://arxiv.org/abs/2506.20876).
+If you found any of these resources useful, please consider citing [our paper](https://aclanthology.org/2026.findings-acl.496/).
 
 ```{bibtex}
 @inproceedings{joseph-etal-2026-decide,
